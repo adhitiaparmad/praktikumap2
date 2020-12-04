@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/nakama/.dotnet/store/|arch|/|tfm|",
+      "/Users/nakama/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/bin/Debug/net5.0/Latihan_02.deps.json
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/bin/Debug/net5.0/Latihan_02.runtimeconfig.json
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/bin/Debug/net5.0/Latihan_02.runtimeconfig.dev.json
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/bin/Debug/net5.0/Latihan_02.dll
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/bin/Debug/net5.0/ref/Latihan_02.dll
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/bin/Debug/net5.0/Latihan_02.pdb
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.AssemblyInfoInputs.cache
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.AssemblyInfo.cs
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.csproj.CoreCompileInputs.cache
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.dll
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/ref/Latihan_02.dll
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.pdb
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.genruntimeconfig.cache
+/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_02/obj/Debug/net5.0/Latihan_02.csprojAssemblyReference.cache
