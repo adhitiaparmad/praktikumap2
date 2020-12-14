@@ -1,8 +1,11 @@
-﻿<Properties StartupConfiguration="{EE2D47ED-AEAF-4E5E-93A6-43D353FCE278}|Default">
+﻿<Properties StartupConfiguration="{DC1E2CFB-7F07-4274-8124-AE2C0D224EFE}|Default">
   <MonoDevelop.Ide.ItemProperties.Latihan__01 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Latihan_03/Program.cs" Line="25" Column="24" />
+      <File FileName="Latihan_04/Program.cs" Line="139" Column="6" />
+      <File FileName="Latihan_05/Program.cs" />
+      <File FileName="Latihan_04/mahasiswa_hi.txt" />
+      <File FileName="Latihan_07/Program.cs" Line="185" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +13,10 @@
           <Node name="PraktikumAP2" expanded="True">
             <Node name="Latihan_01" expanded="True" />
             <Node name="Latihan_02" expanded="True" />
-            <Node name="Latihan_03" expanded="True">
+            <Node name="Latihan_03" expanded="True" />
+            <Node name="Latihan_04" expanded="True" />
+            <Node name="Latihan_05" expanded="True" />
+            <Node name="Latihan_07" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,9 +24,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Latihan__05 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Latihan__03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Latihan__02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Latihan__04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Latihan__07 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
