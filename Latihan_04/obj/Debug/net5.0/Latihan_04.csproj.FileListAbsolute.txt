@@ -1,0 +1,16 @@
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\Latihan_04.exe
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\Latihan_04.deps.json
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\Latihan_04.runtimeconfig.json
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\Latihan_04.runtimeconfig.dev.json
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\Latihan_04.dll
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\ref\Latihan_04.dll
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\bin\Debug\net5.0\Latihan_04.pdb
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.csprojAssemblyReference.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.AssemblyInfoInputs.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.AssemblyInfo.cs
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.csproj.CoreCompileInputs.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.dll
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\ref\Latihan_04.dll
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.pdb
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_04\obj\Debug\net5.0\Latihan_04.genruntimeconfig.cache

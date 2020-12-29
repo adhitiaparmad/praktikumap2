@@ -1,0 +1,11 @@
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\bin\Debug\Latihan_08.exe.config
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\bin\Debug\Latihan_08.exe
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\bin\Debug\Latihan_08.pdb
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Album_foto.csprojAssemblyReference.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Latihan_08.FormSettings.resources
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Latihan_08.FormUtama.resources
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Latihan_08.Properties.Resources.resources
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Album_foto.csproj.GenerateResource.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Album_foto.csproj.CoreCompileInputs.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Latihan_08.exe
+C:\Users\aputr\Documents\workspace\praktikumap2\Latihan_08\obj\Debug\Latihan_08.pdb

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/nakama/.dotnet/store/|arch|/|tfm|",
-      "/Users/nakama/.nuget/packages"
+      "C:\\Users\\aputr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aputr\\.nuget\\packages"
     ]
   }
 }

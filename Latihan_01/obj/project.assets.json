@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/nakama/.nuget/packages/": {}
+    "C:\\Users\\aputr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_01/Latihan_01.csproj",
+      "projectUniqueName": "C:\\Users\\aputr\\Documents\\workspace\\praktikumap2\\Latihan_01\\Latihan_01.csproj",
       "projectName": "Latihan_01",
-      "projectPath": "/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_01/Latihan_01.csproj",
-      "packagesPath": "/Users/nakama/.nuget/packages/",
-      "outputPath": "/Users/nakama/Documents/Personal/Sarjana/Semester1/MataKuliah/Algoritma/Workspace/PraktikumAP2/Latihan_01/obj/",
+      "projectPath": "C:\\Users\\aputr\\Documents\\workspace\\praktikumap2\\Latihan_01\\Latihan_01.csproj",
+      "packagesPath": "C:\\Users\\aputr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aputr\\Documents\\workspace\\praktikumap2\\Latihan_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nakama/.config/NuGet/NuGet.Config"
+        "C:\\Users\\aputr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

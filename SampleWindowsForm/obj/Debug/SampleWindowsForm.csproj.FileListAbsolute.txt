@@ -1,0 +1,11 @@
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\bin\Debug\SampleWindowsForm.exe.config
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\bin\Debug\SampleWindowsForm.exe
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\bin\Debug\SampleWindowsForm.pdb
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.csprojAssemblyReference.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.Form1.resources
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.Form2.resources
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.Properties.Resources.resources
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.GenerateResource.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.exe
+C:\Users\aputr\Documents\workspace\praktikumap2\SampleWindowsForm\obj\Debug\SampleWindowsForm.pdb

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocX" Version="1.7.1" />
+    <PackageReference Include="NPOI" Version="2.5.2" />
+    <PackageReference Include="System.Security.Permissions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GemBox.Document">
+      <HintPath>..\..\..\..\Downloads\GemBox.Document-3.1-Build-31.0.0.1089_ShareAppsCrack.com\GemBox.Document 3.1 Build 31.0.0.1089\net35\GemBox.Document.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
+

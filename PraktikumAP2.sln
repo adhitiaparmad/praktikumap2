@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_01", "Latihan_01\Latihan_01.csproj", "{A0A05708-F0BA-4B36-A66A-87E35F620422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Latihan_01", "Latihan_01\Latihan_01.csproj", "{A0A05708-F0BA-4B36-A66A-87E35F620422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_02", "Latihan_02\Latihan_02.csproj", "{4E6286B3-7ED0-42B2-A411-8D8D4DBD27D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Latihan_02", "Latihan_02\Latihan_02.csproj", "{4E6286B3-7ED0-42B2-A411-8D8D4DBD27D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_03", "Latihan_03\Latihan_03.csproj", "{EE2D47ED-AEAF-4E5E-93A6-43D353FCE278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Latihan_03", "Latihan_03\Latihan_03.csproj", "{EE2D47ED-AEAF-4E5E-93A6-43D353FCE278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_04", "Latihan_04\Latihan_04.csproj", "{B4ADFA05-581A-4BA0-9FAA-5758FB7C4DBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Latihan_04", "Latihan_04\Latihan_04.csproj", "{B4ADFA05-581A-4BA0-9FAA-5758FB7C4DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_05", "Latihan_05\Latihan_05.csproj", "{1E2E25EA-5AAA-4ACD-A035-4AF9EDDAB122}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Latihan_05", "Latihan_05\Latihan_05.csproj", "{1E2E25EA-5AAA-4ACD-A035-4AF9EDDAB122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_07", "Latihan_07\Latihan_07.csproj", "{DC1E2CFB-7F07-4274-8124-AE2C0D224EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Latihan_07", "Latihan_07\Latihan_07.csproj", "{DC1E2CFB-7F07-4274-8124-AE2C0D224EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Album_foto", "Latihan_08\Album_foto.csproj", "{BA82C3AE-190B-4716-BE58-509FE837DA58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWindowsForm", "SampleWindowsForm\SampleWindowsForm.csproj", "{DD1280DE-3933-4A14-A6A4-FD921E8DF2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreUAS", "CoreUAS\CoreUAS.csproj", "{8D47D5F7-7890-424B-9589-185D4ED76DD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{DC1E2CFB-7F07-4274-8124-AE2C0D224EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC1E2CFB-7F07-4274-8124-AE2C0D224EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC1E2CFB-7F07-4274-8124-AE2C0D224EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA82C3AE-190B-4716-BE58-509FE837DA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA82C3AE-190B-4716-BE58-509FE837DA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA82C3AE-190B-4716-BE58-509FE837DA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA82C3AE-190B-4716-BE58-509FE837DA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1280DE-3933-4A14-A6A4-FD921E8DF2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1280DE-3933-4A14-A6A4-FD921E8DF2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1280DE-3933-4A14-A6A4-FD921E8DF2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1280DE-3933-4A14-A6A4-FD921E8DF2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D47D5F7-7890-424B-9589-185D4ED76DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D47D5F7-7890-424B-9589-185D4ED76DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D47D5F7-7890-424B-9589-185D4ED76DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D47D5F7-7890-424B-9589-185D4ED76DD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
